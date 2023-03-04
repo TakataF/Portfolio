@@ -4,10 +4,27 @@
 
 .navbar-brand{
     color: #BA9F4B !important;
+    margin-left: 25px;
 }
 
 .nav-link{
     color: #BA9F4B !important;
+}
+
+.foto-container{
+    text-align: center;
+}
+.img-picture{
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.img-android{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    
+
 }
 
 body{
